@@ -16,6 +16,7 @@ function checkKey(e) {
         console.log("up arrow"+"   "+rand);
         car.style.top=(parseInt(car.style.top)-5)+'px';
         console.log(car.style.top+"  ");
+        //hello 
 
         
 
